@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "ru.nelande.reblindness.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"BlindnessFogModifierMixin",
+		"DarknessFogModifierMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
